@@ -4,7 +4,6 @@ import hid
 import time
 import math
 import sys
-import re
 
 vid=0x0483 # RigExpert
 pid=0xa1de # AA-55 ZOOM
